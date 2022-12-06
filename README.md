@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there, my name is William Galvão, you can call me just Willia. Below you will find the best information about myself, my skills, social medias and some curiosities. Make yourself confortable at it was your own home. I can make you coffee if you like 👋
+
+- 🔭 I’m currently working on ...
+
 
 <!--
 **williampetrus/williampetrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
