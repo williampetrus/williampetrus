@@ -1,6 +1,19 @@
 ### Hi there, my name is William Galvão but you can call me just William. 
 <br>
 Below you will find the best information about myself, my skills, social medias and some curiosities. Make yourself confortable at it was your own home. I can make you coffee if you like 👋
+<br> 
+Olá, sou William Galvão, bacharel em Administração com Ênfase em Comércio Exterior, acadêmico de Ciência da Computação no 2º período e sou apaixonado por inovação, tecnologia e conhecimento, estes três aplicados a negócios. <br>
+
+Atualmente estou fazendo uma especialização em Ciência de Dados na qual atuo simultaneamente como Product Owner em um projeto de Machine Learning para predição de "churn" utilizando o SCRUM, como metodologia ágil e a metodologia do CRISP-DM para execução do mesmo. O ramo da empresa é de saúde. <br>
+
+Ao longo da especialização elaborei vários projetos menores aplicando machine learning para análise de dados de negócios e de predição, por classificação ou regressão linear. <br>
+
+Tenho experiência com empreendedorismo, gestão financeira e análise e inteligência de negócios. <br>
+Também me adapto bem em trabalho em equipe, resolução de problemas e liderança. <br>
+Antes de me engajar e apaixonar pelo mundo da tecnologia: <br>
+- Fui Gerente de Exportação de Madeira, então entendo um pouo de política internacional e cambial;
+- Fui Corretor de Imóveis;
+- Administrei meu próprio negócio.
 
 🖥️ Social Media:
 
